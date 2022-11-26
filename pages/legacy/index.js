@@ -1,5 +1,5 @@
-import { Footer, Navbar } from '../components';
-import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../sections';
+import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World } from '../../sections';
+import { Footer, Navbar } from '../../components';
 
 const Home = () => (
   <div>
